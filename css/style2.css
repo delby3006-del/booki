@@ -290,7 +290,7 @@ a {
   text-decoration: none;
   color: inherit;
 }
-.hebergements .afplus {
+.hebergements .afficher-plus {
   font-weight: 700;
   font-size: 18px;
 }
@@ -535,31 +535,31 @@ a {
     border-radius: 15px;
     border-width: 1px;
   }
-  .champsville {
+  .champs-ville {
     margin-right: -10px;
     width: 100%;
   }
-  .btrecherche {
+  .bouton-recherche {
     padding-right: 15px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     border-radius: 15px;
     padding-left: 15px;
   }
-  .btrecherche p {
+  .bouton-recherche p {
     display: none;
   }
   .loupe {
     display: flex;
     color: #f2f2f2;
   }
-  .lesFiltres {
+  .les-filtres {
     margin-top: 0px;
     display: flex;
     flex-direction: column;
     align-items: baseline;
     width: 100%;
   }
-  .lesFiltres .btfiltres {
+  .les-filtres .bouton-filtres {
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-template-rows: repeat(2, 50%);
@@ -568,7 +568,7 @@ a {
     padding-right: 15px;
     margin-bottom: 50px;
   }
-  .CLbouton {
+  .clik-bouton {
     font-size: 14px;
     justify-content: center;
     align-items: center;

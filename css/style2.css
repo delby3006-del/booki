@@ -86,14 +86,14 @@ a {
   justify-content: center;
   border: solid var(--main-bg-color);
 }
-.champsville {
+.champs-ville {
   font-size: 18px;
   height: 50px;
   border: solid var(--main-bg-color);
   font-weight: 700;
   text-align: center;
 }
-.btrecherche {
+.bouton-recherche {
   background-color: #0065fc;
   height: 50px;
   color: #f2f2f2;
@@ -106,13 +106,13 @@ a {
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
 }
-.btrecherche p {
+.bouton-recherche p {
   font-weight: 700;
 }
 .loupe {
   display: none;
 }
-.lesFiltres {
+.les-filtres {
   display: flex;
   align-items: center;
   gap: 15px;
@@ -120,16 +120,16 @@ a {
   height: 55px;
   width: 100%;
 }
-.lesFiltres h2 {
+.les-filtres h2 {
   font-size: 18px;
   text-align: center;
 }
-.btfiltres {
+.bouton-filtres {
   display: flex;
   flex-direction: row;
   gap: 15px;
 }
-.CLbouton {
+.clik-bouton {
   display: flex;
   gap: 7px;
   font-weight: 700;
@@ -142,16 +142,16 @@ a {
   background-color: white;
   border: 2px solid #d9d9d9;
 }
-.CLbouton:hover {
+.clik-bouton:hover {
   background-color: #deebff;
 }
-.CLbouton .fa-fire,
+.clik-bouton .fa-fire,
 .fa-heart,
 .fa-money-bill-wave,
 .fa-person {
   color: #0065fc;
 }
-.infoinportante {
+.information-importante {
   display: flex;
   gap: 10px;
   font-weight: 400;
@@ -159,7 +159,7 @@ a {
   align-items: center;
   margin-top: 10px;
 }
-.infoinportante .fa-info {
+.information-importante .fa-info {
   color: #0065fc;
   width: 25px;
   height: 25px;

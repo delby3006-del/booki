@@ -107,7 +107,7 @@ a {
   border-bottom-right-radius: 15px;
   font-weight: 700;
 }
-.loupe {
+.bouton-recherche .loupe {
   display: none;
 }
 .les-filtres {
@@ -546,7 +546,7 @@ a {
   .bouton-recherche span {
     display: none;
   }
-  .loupe {
+  .bouton-recherche .loupe {
     display: flex;
     color: #f2f2f2;
   }

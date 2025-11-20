@@ -105,8 +105,6 @@ a {
   border: none;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-}
-.bouton-recherche p {
   font-weight: 700;
 }
 .loupe {
@@ -545,7 +543,7 @@ a {
     border-radius: 15px;
     padding-left: 15px;
   }
-  .bouton-recherche p {
+  .bouton-recherche span {
     display: none;
   }
   .loupe {

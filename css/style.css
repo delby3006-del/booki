@@ -61,6 +61,7 @@ a {
 .navigation a:hover {
   padding-top: 20px;
   border-top: 2px solid var(--main-color);
+  color: #0065fc;
 }
 
 .en-tete {

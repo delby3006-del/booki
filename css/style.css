@@ -111,6 +111,10 @@ a {
   text-align: center;
 }
 
+.champs-ville::placeholder {
+  color: black;
+}
+
 .bouton-recherche {
   background-color: #0065fc;
   height: 50px;
